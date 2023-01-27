@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652175606 source:c:\users\hp\desktop\projet ro\welsh-powell\main.cpp
+	"Welsh-Powell.h"
+
+1653678165 c:\users\hp\desktop\projet ro\welsh-powell\welsh-powell.h
+	<iostream>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651021797 source:c:\users\hp\desktop\projet ro\dijkstra\main.cpp
+	"dijkstra.h"
+
+1651255105 c:\users\hp\desktop\projet ro\dijkstra\dijkstra.h
+	<iostream>
+	<vector>
+

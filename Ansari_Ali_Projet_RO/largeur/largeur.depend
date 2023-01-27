@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650920701 source:c:\users\hp\desktop\projet ro\largeur\main.cpp
+	"largeur.h"
+
+1650924124 c:\users\hp\desktop\projet ro\largeur\largeur.h
+	<iostream>
+	<deque>
+	<vector>
+

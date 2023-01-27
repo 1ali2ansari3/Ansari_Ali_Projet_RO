@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650989433 source:c:\users\hp\desktop\projet ro\prim\main.cpp
+	"prim.h"
+
+1651248553 c:\users\hp\desktop\projet ro\prim\prim.h
+	<iostream>
+	<vector>
+
+1650993033 source:c:\users\hp\desktop\ansari_ali_projet_ro\prim\main.cpp
+	"prim.h"
+
+1651252153 c:\users\hp\desktop\ansari_ali_projet_ro\prim\prim.h
+	<iostream>
+	<vector>
+

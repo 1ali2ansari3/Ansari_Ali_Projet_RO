@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650997157 source:c:\users\hp\desktop\projet ro\kruskal\main.cpp
+	"kruskal.h"
+
+1651255640 c:\users\hp\desktop\projet ro\kruskal\kruskal.h
+	<iostream>
+	<vector>
+

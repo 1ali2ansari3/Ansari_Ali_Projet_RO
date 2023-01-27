@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651077389 source:c:\users\hp\desktop\projet ro\bellman-from\main.cpp
+	"bellman-from.h"
+
+1651080223 c:\users\hp\desktop\projet ro\bellman-from\bellman-from.h
+	<iostream>
+	<vector>
+

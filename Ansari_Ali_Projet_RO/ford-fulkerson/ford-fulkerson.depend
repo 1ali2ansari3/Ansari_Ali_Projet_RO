@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651154351 source:c:\users\hp\desktop\projet ro\ford-fulkerson\main.cpp
+	"ford-fulkerson.h"
+
+1651154351 c:\users\hp\desktop\projet ro\ford-fulkerson\ford-fulkerson.h
+	<iostream>
+	<vector>
+	<deque>
+

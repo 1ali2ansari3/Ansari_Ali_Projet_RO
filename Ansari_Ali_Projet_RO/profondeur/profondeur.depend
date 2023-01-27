@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650908445 source:c:\users\hp\desktop\projet ro\profondeur\main.cpp
+	"profondeur.h"
+
+1650921427 c:\users\hp\desktop\projet ro\profondeur\profondeur.h
+	<iostream>
+	<vector>
+
